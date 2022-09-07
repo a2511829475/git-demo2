@@ -5,5 +5,6 @@ public class GitTest {
         System.out.println("hello get");
         System.out.println("修改 git");
         System.out.println("修改 git第二次");
+        System.out.println("hot-fix 修改了");
     }
 }
